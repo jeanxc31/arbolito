@@ -155,7 +155,7 @@ body {
 .countdown {
   position: fixed;
   left: 50%;
-  bottom: 3%;
+  bottom: 10%;
   transform: translateX(-50%);
   font-family: 'Courier New', Courier, monospace;
   font-size: 0.60rem;
