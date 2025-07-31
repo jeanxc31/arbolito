@@ -79,7 +79,7 @@ body {
 .countdown {
   position: fixed;
   left: 50%;
-  bottom: 5vw;
+  bottom: 500vw;
   transform: translateX(-50%);
   font-size: 0.60rem;
   min-width: 80vw;
