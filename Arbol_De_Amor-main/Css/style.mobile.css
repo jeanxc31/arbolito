@@ -71,7 +71,7 @@ body {
     left: auto;
     bottom: auto;
     transform: none;
-    font-size: 1.25rem;
+    font-size: 0.60rem;
     text-align: center;
   }
 }
@@ -79,11 +79,11 @@ body {
 .countdown {
   position: fixed;
   left: 50%;
-  bottom: 10vw;
+  bottom: 5vw;
   transform: translateX(-50%);
-  font-size: 0.98rem;
-  min-width: 60vw;
-  max-width: 92vw;
+  font-size: 0.60rem;
+  min-width: 80vw;
+  max-width: 122vw;
   text-align: center;
   padding: 0.5em 0.7em;
   border-radius: 1em;
